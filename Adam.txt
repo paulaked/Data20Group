@@ -1,1 +1,2 @@
 Example note.
+Newline.
